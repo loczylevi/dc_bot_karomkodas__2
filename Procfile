@@ -1,0 +1,1 @@
+worker: python3 dc_bot_karomkodas_detector.py
